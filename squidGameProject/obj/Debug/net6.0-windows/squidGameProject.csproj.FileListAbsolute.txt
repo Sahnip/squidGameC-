@@ -1,0 +1,15 @@
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\bin\Debug\net6.0-windows\squidGameProject.exe
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\bin\Debug\net6.0-windows\squidGameProject.deps.json
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\bin\Debug\net6.0-windows\squidGameProject.runtimeconfig.json
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\bin\Debug\net6.0-windows\squidGameProject.dll
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\bin\Debug\net6.0-windows\ref\squidGameProject.dll
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\bin\Debug\net6.0-windows\squidGameProject.pdb
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.csproj.AssemblyReference.cache
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.AssemblyInfoInputs.cache
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.AssemblyInfo.cs
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.csproj.CoreCompileInputs.cache
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.dll
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\ref\squidGameProject.dll
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.pdb
+C:\Users\pinha\Documents\CFA_INSTA_C#\COURS_C#\squidGameProject\obj\Debug\net6.0-windows\squidGameProject.genruntimeconfig.cache
